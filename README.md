@@ -1,8 +1,9 @@
 ## Pokeapp
 React Native - Pokeapp
 
-## Installation
 ***
+
+## Installation
 A little intro about the installation. 
 ```
 $ git clone https://github.com/FranciscoBarranco/Pokeapp.git
